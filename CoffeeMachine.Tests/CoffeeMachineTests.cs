@@ -1,5 +1,7 @@
 ﻿// Joel Sebastián Tineo Severino (2024 - 0162)
 
+// Comment for pull request
+
 using CoffeeMachine.Domain.Enums;
 using CoffeeMachine.Services;
 
